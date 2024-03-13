@@ -38,6 +38,7 @@ ul, ul li {
 }
 
 img {
+	object-fit: cover;
 	vertical-align: top;
 }
 
